@@ -1,0 +1,2 @@
+rootProject.name='BackgroundEmotionTrackingSample'
+include ':app'
